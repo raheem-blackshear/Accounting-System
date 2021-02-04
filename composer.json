@@ -12,7 +12,7 @@
         "composer/semver": "^1.4",
         "consoletvs/charts": "^5.4",
         "laracasts/utilities": "^3.0",
-        "laravel/framework": "6.20.12",
+        "laravel/framework": "*",
         "laravel/tinker": "~1.0",
         "laravelcollective/html": "^5.5.1",
         "milon/barcode": "^5.3",
